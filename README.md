@@ -1,41 +1,45 @@
 # roll20
 
-Required API
+***************************************************************************************
+API
+***************************************************************************************
 
-5th Edition OGL by Roll20 Companion
-Base64
 GroupCheck
 GroupInitiative
 MacroMover*
 MapSizer*
 TableExport
 TimeTracker*
-TokenMod
 TokenLock
+TokenMod
 TurnMarker1
 
-One-Time Macros
+***************************************************************************************
+Configuration
+***************************************************************************************
 
 !group-check-config --import 5E-OGL
+
 !group-init-config --apply-standard-config|dnd5eogl
+
 !time -setformat 12
 
 ***************************************************************************************
-* Appendix - Templates
+Templates
 ***************************************************************************************
 
 https://wiki.roll20.net/Roll_Templates
 https://wiki.roll20.net/5e_OGL_Roll_Templates
 
 ***************************************************************************************
-* Appendix - Token Bar Colors
+Token Bar Colors
 ***************************************************************************************
 
 Bar 1 (Hit Points)
-#b31d1d
+#B31D1D
 
 Bar 2 (Armor Class)
-#7c9bc4
+#7C9BC4
 
 Bar 3 (Temporary Hit Points)
-#7cc48a
+#7CC48A
