@@ -1,0 +1,19 @@
+***************************************************************************************
+* Dice
+***************************************************************************************
+
+&{template:simple} {{rname=Generic}} {{mod=d4}} {{r1=[[1d4]]}} {{normal=1}}
+&{template:simple} {{rname=Generic}} {{mod=d6}} {{r1=[[1d6]]}} {{normal=1}}
+&{template:simple} {{rname=Generic}} {{mod=d8}} {{r1=[[1d8]]}} {{normal=1}}
+&{template:simple} {{rname=Generic}} {{mod=d10}} {{r1=[[1d10]]}} {{normal=1}}
+&{template:simple} {{rname=Generic}} {{mod=d12}} {{r1=[[1d12]]}} {{normal=1}}
+&{template:simple} {{rname=Generic}} {{mod=d20}} {{r1=[[1d20]]}} {{normal=1}}
+&{template:simple} {{rname=Generic}} {{mod=d100}} {{r1=[[1d100]]}} {{normal=1}}
+
+&{template:simple} {{rname=Generic}} {{mod=d4}} {{r1=[[?{Number of Dice|1}d4+?{Bonus|0}]]}} {{normal=1}}
+&{template:simple} {{rname=Generic}} {{mod=d6}} {{r1=[[?{Number of Dice|1}d6+?{Bonus|0}]]}} {{normal=1}}
+&{template:simple} {{rname=Generic}} {{mod=d8}} {{r1=[[?{Number of Dice|1}d8+?{Bonus|0}]]}} {{normal=1}}
+&{template:simple} {{rname=Generic}} {{mod=d10}} {{r1=[[?{Number of Dice|1}d10+?{Bonus|0}]]}} {{normal=1}}
+&{template:simple} {{rname=Generic}} {{mod=d12}} {{r1=[[?{Number of Dice|1}d12+?{Bonus|0}]]}} {{normal=1}}
+&{template:simple} {{rname=Generic}} {{mod=d20}} {{r1=[[?{Number of Dice|1}d20+?{Bonus|0}]]}} {{normal=1}}
+&{template:simple} {{rname=Generic}} {{mod=d100}} {{r1=[[?{Number of Dice|1}d100+?{Bonus|0}]]}} {{normal=1}}

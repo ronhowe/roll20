@@ -1,0 +1,78 @@
+***************************************************************************************
+* Tables
+***************************************************************************************
+
+NPC
+/w gm &{template:default}{{name=NPC}}{{Name=[[1t[NPC-Name-1]]][[1t[NPC-Name-2]]][[1t[NPC-Name-3]]]}}{{Class=[[1t[NPC-Class]]]}}{{Alignment=[[1t[NPC-Alignment]]]}}{{Organization=[[1t[NPC-Organization]]]}}{{Appearance=[[1t[NPC-Appearance]]]}}{{Bond=[[1t[NPC-Bond]]]}}{{Flaw=[[1t[NPC-Flaw]]]}}{{Interaction=[[1t[NPC-Interaction]]]}}{{Mannerism=[[1t[NPC-Mannerism]]]}}{{Talent=[[1t[NPC-Talent]]]}}{{Known By=[[1t[Player-Character]]]}}
+
+Room
+/w gm &{template:default}{{name=Room}}{{Event=[[1t[Room-Event]]]}}{{Noise=[[1t[Room-Noise]]]}}{{Air=[[1t[Room-Air]]]}}{{Odor=[[1t[Room-Odor]]]}}{{Furniture=[[1t[Room-Furniture]]]}}{{Items=[[1t[Room-Item]]]}}{{Container=[[1t[Room-Container]]]}}{{Library=[[1t[Room-Library]]]}}{{Arcane=[[1t[Room-Arcane]]]}}{{Religion=[[1t[Room-Religion]]]}}{{Feature=[[1t[Room-Feature]]]}}{{Find=[[1t[Room-Find]]]}}
+
+Trinket
+/w gm &{template:default}{{name=Trick or Treat}}{{Normal Trinket=[[1t[Trinket-Normal]]]}}{{Gothic Trinket=[[1t[Trinket-Gothic]]]}}{{Trick Object=[[1t[Trick-Object]]]}}{{Trick Effect=[[1t[Trick-Effect]]]}}{{Random % Roll=[[1d100]]}}
+
+    ***************************************************************************************
+    * Appendix - Tables
+    ***************************************************************************************
+
+    !export-table --Building-Religious
+    !export-table --Building-Residence
+    !export-table --Building-Shop
+    !export-table --Building-Tavern-Name-1
+    !export-table --Building-Tavern-Name-2
+    !export-table --Building-Tavern-Type
+    !export-table --Building-Type
+    !export-table --Building-Warehouse
+    !export-table --Dungeon-Creator
+    !export-table --Dungeon-Exotic
+    !export-table --Dungeon-Goal
+    !export-table --Dungeon-History
+    !export-table --Dungeon-Location
+    !export-table --Dungeon-Purpose
+    !export-table --Encounter-Undersea
+    !export-table --Encounter-Urban
+    !export-table --NPC-Alignment
+    !export-table --NPC-Appearance
+    !export-table --NPC-Bond
+    !export-table --NPC-Class
+    !export-table --NPC-Flaw
+    !export-table --NPC-Interaction
+    !export-table --NPC-Mannerism
+    !export-table --NPC-Name-1
+    !export-table --NPC-Name-2
+    !export-table --NPC-Name-3
+    !export-table --NPC-Orgnization
+    !export-table --NPC-Talent
+    !export-table --NPC-Token
+    !export-table --Obstacle
+    !export-table --Room-Air
+    !export-table --Room-Arcane
+    !export-table --Room-Container
+    !export-table --Room-Event
+    !export-table --Room-Feature
+    !export-table --Room-Find
+    !export-table --Room-Furniture
+    !export-table --Room-Item
+    !export-table --Room-Library
+    !export-table --Room-Noise
+    !export-table --Room-Odor
+    !export-table --Room-Religion
+    !export-table --Settlement-Current-Calamity
+    !export-table --Settlement-Known-For-Its
+    !export-table --Settlement-Notable-Trait
+    !export-table --Settlement-Race-Relation
+    !export-table --Settlement-Rule-Status
+    !export-table --Trap-Effect
+    !export-table --Trap-Severity
+    !export-table --Trap-Trigger
+    !export-table --Trick-Effect
+    !export-table --Trick-Object
+    !export-table --Trinket-Gothic
+    !export-table --Trinket-Normal
+    !export-table --Wilderness-Goal
+    !export-table --Wilderness-Monument
+    !export-table --Wilderness-Precipitation
+    !export-table --Wilderness-Temperature
+    !export-table --Wilderness-Weird-Locale
+    !export-table --Wilderness-Wind
+

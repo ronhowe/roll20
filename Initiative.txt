@@ -1,0 +1,12 @@
+***************************************************************************************
+* Initiative
+***************************************************************************************
+
+Initiative
+!group-init
+
+Peace
+!tm reset
+!group-init --clear
+
+#!group-init-config --apply-standard-config|dnd5eogl

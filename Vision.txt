@@ -1,0 +1,17 @@
+***************************************************************************************
+* Vision
+***************************************************************************************
+
+Darkvision
+
+!token-mod --set has_bright_light_vision|on
+!token-mod --set has_night_vision|on
+!token-mod --set has_limit_field_of_night_vision|off
+!token-mod --set night_vision_distance|60
+!token-mod --set night_vision_tint|000000
+
+Vision
+
+!token-mod --set has_bright_light_vision|on
+!token-mod --set has_limit_field_of_vision|off
+!token-mod --set has_night_vision|off

@@ -1,0 +1,15 @@
+***************************************************************************************
+* Nameplates
+***************************************************************************************
+
+Names+
+!token-mod --set showname|on
+!token-mod --set showplayers_name|on
+
+Names
+!token-mod --set showname|on
+!token-mod --set showplayers_name|off
+
+Names-
+!token-mod --set showname|off
+!token-mod --set showplayers_name|off

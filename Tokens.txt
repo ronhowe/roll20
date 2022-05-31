@@ -1,0 +1,63 @@
+***************************************************************************************
+Appendix - Markers
+https://app.roll20.net/campaigns/scripts/5066222
+***************************************************************************************
+
+!token-mod --help
+
+!token-mod --set statusmarkers|blue
+!token-mod --set statusmarkers|brown
+!token-mod --set statusmarkers|green
+!token-mod --set statusmarkers|pink
+!token-mod --set statusmarkers|purple
+!token-mod --set statusmarkers|red
+!token-mod --set statusmarkers|yellow
+
+!token-mod --set statusmarkers|all-for-one
+!token-mod --set statusmarkers|angel-outfit
+!token-mod --set statusmarkers|archery-target
+!token-mod --set statusmarkers|arrowed
+!token-mod --set statusmarkers|aura
+!token-mod --set statusmarkers|back-pain
+!token-mod --set statusmarkers|black-flag
+!token-mod --set statusmarkers|bleeding-eye
+!token-mod --set statusmarkers|bolt-shield
+!token-mod --set statusmarkers|broken-heart
+!token-mod --set statusmarkers|broken-shield
+!token-mod --set statusmarkers|broken-skull
+!token-mod --set statusmarkers|chained-heart
+!token-mod --set statusmarkers|chemical-bolt
+!token-mod --set statusmarkers|cobweb
+!token-mod --set statusmarkers|dead
+!token-mod --set statusmarkers|death-zone
+!token-mod --set statusmarkers|drink-me
+!token-mod --set statusmarkers|edge-crack
+!token-mod --set statusmarkers|fishing-net
+!token-mod --set statusmarkers|fist
+!token-mod --set statusmarkers|fluffy-wing
+!token-mod --set statusmarkers|flying-flag
+!token-mod --set statusmarkers|frozen-orb
+!token-mod --set statusmarkers|grab
+!token-mod --set statusmarkers|grenade
+!token-mod --set statusmarkers|half-haze
+!token-mod --set statusmarkers|half-heart
+!token-mod --set statusmarkers|interdiction
+!token-mod --set statusmarkers|lightning-helix
+!token-mod --set statusmarkers|ninja-mask
+!token-mod --set statusmarkers|overdrive
+!token-mod --set statusmarkers|padlock
+!token-mod --set statusmarkers|pummeled
+!token-mod --set statusmarkers|radioactive
+!token-mod --set statusmarkers|rolling-bomb
+!token-mod --set statusmarkers|screaming
+!token-mod --set statusmarkers|sentry-gun
+!token-mod --set statusmarkers|skull
+!token-mod --set statusmarkers|sleepy
+!token-mod --set statusmarkers|snail
+!token-mod --set statusmarkers|spanner
+!token-mod --set statusmarkers|stopwatch
+!token-mod --set statusmarkers|strong
+!token-mod --set statusmarkers|three-leaves
+!token-mod --set statusmarkers|tread
+!token-mod --set statusmarkers|trophy
+!token-mod --set statusmarkers|white-tower

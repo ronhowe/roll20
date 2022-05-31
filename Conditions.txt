@@ -1,0 +1,134 @@
+***************************************************************************************
+* Conditions
+***************************************************************************************
+
+Alive
+!token-mod --set statusmarkers|-dead
+!token-mod --set layer|objects
+
+Bane
+!token-mod --set statusmarkers|!broken-skull
+
+Blinded
+!token-mod --set statusmarkers|!bleeding-eye
+!token-mod --flip has_limit_field_of_vision
+!token-mod --flip has_limit_field_of_night_vision
+!token-mod --set limit_field_of_vision_total|0
+
+Bloodied
+!token-mod --set statusmarkers|+half-heart
+!token-mod --set tint_color|#ff0000
+
+Boon
+!token-mod --set statusmarkers|!trophy
+
+Charmed
+!token-mod --set statusmarkers|!chained-heart
+
+Concentrating
+!token-mod --set statusmarkers|!stopwatch
+
+Dead
+#Undo
+!token-mod --set statusmarkers|dead
+!token-mod --set layer|map
+
+Deafened
+!token-mod --set statusmarkers|!lightning-helix
+
+Exhausted
+!token-mod --set statusmarkers|sleepy:+1
+
+Flying
+!token-mod --set statusmarkers|angel-outfit:+1
+
+Frightened
+!token-mod --set statusmarkers|!screaming
+
+Grappled
+!token-mod --set statusmarkers|!fist
+
+Healthy
+!token-mod --set statusmarkers|-half-heart
+!token-mod --set tint_color|transparent
+
+Incapacitated
+!token-mod --set statusmarkers|!flying-flag
+
+Invisible
+!token-mod --set statusmarkers|!ninja-mask
+
+Landing
+!token-mod --set statusmarkers|?angel-outfit:-1
+
+Marked
+!token-mod --set statusmarkers|!archery-target
+
+Paralyzed
+!token-mod --set statusmarkers|!frozen-orb
+#Incapacitated
+
+Petrified
+!token-mod --set statusmarkers|!white-tower
+#Blinded
+#Incapacitated
+
+Poisoned
+!token-mod --set statusmarkers|!drink-me
+
+Prone
+!token-mod --set statusmarkers|!back-pain
+
+Rested
+!token-mod --set statusmarkers|?sleepy:-1
+
+Restrained
+!token-mod --set statusmarkers|!fishing-net
+
+Slowed
+!token-mod --set statusmarkers|!snail
+
+Stunned
+!token-mod --set statusmarkers|!aura
+#Incapacitated
+
+Unconscious
+!token-mod --set statusmarkers|!interdiction
+#Blinded
+#Incapacitated
+#Prone
+
+Undo
+!token-mod --set statusmarkers|-blue
+!token-mod --set statusmarkers|-brown
+!token-mod --set statusmarkers|-green
+!token-mod --set statusmarkers|-pink
+!token-mod --set statusmarkers|-purple
+!token-mod --set statusmarkers|-red
+!token-mod --set statusmarkers|-yellow
+!token-mod --set statusmarkers|-angel-outfit
+!token-mod --set statusmarkers|-archery-target
+!token-mod --set statusmarkers|-aura
+!token-mod --set statusmarkers|-back-pain
+!token-mod --set statusmarkers|-bleeding-eye
+!token-mod --set statusmarkers|-broken-skull
+!token-mod --set statusmarkers|-chained-heart
+!token-mod --set statusmarkers|-dead
+!token-mod --set statusmarkers|-drink-me
+!token-mod --set statusmarkers|-fishing-net
+!token-mod --set statusmarkers|-fist
+!token-mod --set statusmarkers|-flying-flag
+!token-mod --set statusmarkers|-frozen-orb
+!token-mod --set statusmarkers|-half-heart
+!token-mod --set statusmarkers|-interdiction
+!token-mod --set statusmarkers|-lightning-helix
+!token-mod --set statusmarkers|-ninja-mask
+!token-mod --set statusmarkers|-screaming
+!token-mod --set statusmarkers|-sleepy
+!token-mod --set statusmarkers|-snail
+!token-mod --set statusmarkers|-stopwatch
+!token-mod --set statusmarkers|-trophy
+!token-mod --set statusmarkers|-white-tower
+!token-mod --set tint_color|transparent
+!token-mod --set has_limit_field_of_vision|off
+!token-mod --set has_limit_field_of_night_vision|off
