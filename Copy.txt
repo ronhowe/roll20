@@ -1,0 +1,83 @@
+***************************************************************************************
+Macros+
+***************************************************************************************
+
+!importMacros
+
+***************************************************************************************
+Macros-
+***************************************************************************************
+
+!exportMacros
+
+***************************************************************************************
+Tables+
+***************************************************************************************
+
+!import-table --Building-Religious
+TODO
+
+***************************************************************************************
+Tables-
+***************************************************************************************
+
+!export-table --Building-Religious
+!export-table --Building-Residence
+!export-table --Building-Shop
+!export-table --Building-Tavern-Name-1
+!export-table --Building-Tavern-Name-2
+!export-table --Building-Tavern-Type
+!export-table --Building-Type
+!export-table --Building-Warehouse
+!export-table --Dungeon-Creator
+!export-table --Dungeon-Exotic
+!export-table --Dungeon-Goal
+!export-table --Dungeon-History
+!export-table --Dungeon-Location
+!export-table --Dungeon-Purpose
+!export-table --Encounter-Undersea
+!export-table --Encounter-Urban
+!export-table --NPC-Alignment
+!export-table --NPC-Appearance
+!export-table --NPC-Bond
+!export-table --NPC-Class
+!export-table --NPC-Flaw
+!export-table --NPC-Interaction
+!export-table --NPC-Mannerism
+!export-table --NPC-Name-1
+!export-table --NPC-Name-2
+!export-table --NPC-Name-3
+!export-table --NPC-Orgnization
+!export-table --NPC-Talent
+!export-table --NPC-Token
+!export-table --Obstacle
+!export-table --Room-Air
+!export-table --Room-Arcane
+!export-table --Room-Container
+!export-table --Room-Event
+!export-table --Room-Feature
+!export-table --Room-Find
+!export-table --Room-Furniture
+!export-table --Room-Item
+!export-table --Room-Library
+!export-table --Room-Noise
+!export-table --Room-Odor
+!export-table --Room-Religion
+!export-table --Settlement-Current-Calamity
+!export-table --Settlement-Known-For-Its
+!export-table --Settlement-Notable-Trait
+!export-table --Settlement-Race-Relation
+!export-table --Settlement-Rule-Status
+!export-table --Trap-Effect
+!export-table --Trap-Severity
+!export-table --Trap-Trigger
+!export-table --Trick-Effect
+!export-table --Trick-Object
+!export-table --Trinket-Gothic
+!export-table --Trinket-Normal
+!export-table --Wilderness-Goal
+!export-table --Wilderness-Monument
+!export-table --Wilderness-Precipitation
+!export-table --Wilderness-Temperature
+!export-table --Wilderness-Weird-Locale
+!export-table --Wilderness-Wind

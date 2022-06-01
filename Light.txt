@@ -1,29 +1,37 @@
 ***************************************************************************************
-* Light
+Candle
 ***************************************************************************************
 
-Candle
-!token-mod --set emits_bright_light|on
 !token-mod --set bright_light_distance|5
+!token-mod --set emits_bright_light|on
 !token-mod --set emits_low_light|on
 !token-mod --set low_light_distance|5
 
+***************************************************************************************
 Lantern
-!token-mod --set emits_bright_light|on
+***************************************************************************************
+
 !token-mod --set bright_light_distance|30
+!token-mod --set emits_bright_light|on
 !token-mod --set emits_low_light|on
 !token-mod --set low_light_distance|30
 
+***************************************************************************************
 Snuff
-!token-mod --set emits_bright_light|off
+***************************************************************************************
+
 !token-mod --set bright_light_distance|0
+!token-mod --set emits_bright_light|off
 !token-mod --set emits_low_light|off
 !token-mod --set low_light_distance|0
 !token-mod --set statusmarkers|-yellow
 
+***************************************************************************************
 Torch
-!token-mod --set emits_bright_light|on
+***************************************************************************************
+
 !token-mod --set bright_light_distance|20
+!token-mod --set emits_bright_light|on
 !token-mod --set emits_low_light|on
 !token-mod --set low_light_distance|20
 !token-mod --set statusmarkers|yellow
