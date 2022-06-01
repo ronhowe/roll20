@@ -75,4 +75,3 @@ Trinket
     !export-table --Wilderness-Temperature
     !export-table --Wilderness-Weird-Locale
     !export-table --Wilderness-Wind
-

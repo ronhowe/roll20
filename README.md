@@ -29,7 +29,7 @@ Templates
 ***************************************************************************************
 
 https://wiki.roll20.net/Roll_Templates
-https://wiki.roll20.net/5e_OGL_Roll_Templates
+https://wiki.roll20.net/5e_ 6gt7  OGL_Roll_Templates
 
 ***************************************************************************************
 Token Bar Colors
