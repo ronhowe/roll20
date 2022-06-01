@@ -1,10 +1,4 @@
 ***************************************************************************************
-Alive
-***************************************************************************************
-
-!token-mod --set tint_color|transparent
-
-***************************************************************************************
 Blessed
 ***************************************************************************************
 
@@ -14,8 +8,11 @@ Blessed
 Blinded
 ***************************************************************************************
 
-!token-mod --set statusmarkers|!bleeding-eye
-/w gm REMINDER: Set Darkvision|Sightless|Vision
+!token-mod --set has_bright_light_vision|off
+!token-mod --set has_limit_field_of_vision|on
+!token-mod --set has_night_vision|off
+!token-mod --set statusmarkers|-green
+!token-mod --set statusmarkers|bleeding-eye
 
 ***************************************************************************************
 Charmed
@@ -34,6 +31,20 @@ Cursed
 ***************************************************************************************
 
 !token-mod --set statusmarkers|!broken-skull
+
+***************************************************************************************
+Darkvision
+***************************************************************************************
+
+#Blinded
+!token-mod --set has_bright_light_vision|on
+!token-mod --set has_limit_field_of_vision|off
+!token-mod --set has_night_vision|on
+!token-mod --set night_vision_distance|60
+!token-mod --set night_vision_effect|dimming|0ft
+!token-mod --set night_vision_tint|274e13
+!token-mod --set statusmarkers|-bleeding-eye
+!token-mod --set statusmarkers|green
 
 ***************************************************************************************
 Dead
@@ -161,8 +172,7 @@ Unconscious
 Undo
 ***************************************************************************************
 
-!token-mod --set has_limit_field_of_night_vision|off
-!token-mod --set has_limit_field_of_vision|off
+#Vision
 !token-mod --set statusmarkers|-angel-outfit
 !token-mod --set statusmarkers|-archery-target
 !token-mod --set statusmarkers|-aura
@@ -194,3 +204,12 @@ Undo
 !token-mod --set statusmarkers|-white-tower
 !token-mod --set statusmarkers|-yellow
 !token-mod --set tint_color|transparent
+
+***************************************************************************************
+Vision
+***************************************************************************************
+
+#Blinded
+!token-mod --set has_bright_light_vision|on
+!token-mod --set has_limit_field_of_vision|off
+!token-mod --set statusmarkers|-bleeding-eye
