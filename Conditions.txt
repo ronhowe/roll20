@@ -11,7 +11,6 @@ Blinded
 !token-mod --set has_bright_light_vision|off
 !token-mod --set has_limit_field_of_vision|on
 !token-mod --set has_night_vision|off
-!token-mod --set statusmarkers|-green
 !token-mod --set statusmarkers|bleeding-eye
 
 ***************************************************************************************
@@ -42,9 +41,8 @@ Darkvision
 !token-mod --set has_night_vision|on
 !token-mod --set night_vision_distance|60
 !token-mod --set night_vision_effect|dimming|0ft
-!token-mod --set night_vision_tint|274e13
+!token-mod --set night_vision_tint|274E13
 !token-mod --set statusmarkers|-bleeding-eye
-!token-mod --set statusmarkers|green
 
 ***************************************************************************************
 Dead
