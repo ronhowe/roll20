@@ -1,9 +1,0 @@
-!import-table --Building-Residence --hide
-!import-table-item --Building-Residence --Abandoned squat --2 --
-!import-table-item --Building-Residence --Middle-class home --6 --
-!import-table-item --Building-Residence --Upper-class home --2 --
-!import-table-item --Building-Residence --Crowded tenement --5 --
-!import-table-item --Building-Residence --Orphanage --2 --
-!import-table-item --Building-Residence --Hidden slavers' den --1 --
-!import-table-item --Building-Residence --Front for a secret cult --1 --
-!import-table-item --Building-Residence --Lavish, guarded mansion --1 --

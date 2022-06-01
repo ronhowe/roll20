@@ -1,7 +1,0 @@
-!import-table --Building-Religious --hide
-!import-table-item --Building-Religious --Temple to a good or neutral deity --10 --
-!import-table-item --Building-Religious --Temple to a false deity (run by charlatan priests) --2 --
-!import-table-item --Building-Religious --Home of ascetics --1 --
-!import-table-item --Building-Religious --Abandoned shrine --2 --
-!import-table-item --Building-Religious --Library dedicated to religious study --2 --
-!import-table-item --Building-Religious --Hidden shrine to a fiend or an evil deity --3 --
