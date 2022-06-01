@@ -2,7 +2,7 @@
 NPC
 ***************************************************************************************
 
-/w gm &{template:default}{{name=NPC}}{{Name=[[1t[NPC-Name-1]]][[1t[NPC-Name-2]]][[1t[NPC-Name-3]]]}}{{Class=[[1t[NPC-Class]]]}}{{Alignment=[[1t[NPC-Alignment]]]}}{{Organization=[[1t[NPC-Organization]]]}}{{Appearance=[[1t[NPC-Appearance]]]}}{{Bond=[[1t[NPC-Bond]]]}}{{Flaw=[[1t[NPC-Flaw]]]}}{{Interaction=[[1t[NPC-Interaction]]]}}{{Mannerism=[[1t[NPC-Mannerism]]]}}{{Talent=[[1t[NPC-Talent]]]}}{{Known By=[[1t[Player-Character]]]}}
+/w gm &{template:default}{{name=NPC}}{{Name=[[1t[NPC-Name-1]]][[1t[NPC-Name-2]]][[1t[NPC-Name-3]]]}}{{Class=[[1t[NPC-Class]]]}}{{Alignment=[[1t[NPC-Alignment]]]}}{{Organization=[[1t[NPC-Organization]]]}}{{Appearance=[[1t[NPC-Appearance]]]}}{{Bond=[[1t[NPC-Bond]]]}}{{Flaw=[[1t[NPC-Flaw]]]}}{{Interaction=[[1t[NPC-Interaction]]]}}{{Mannerism=[[1t[NPC-Mannerism]]]}}{{Talent=[[1t[NPC-Talent]]]}}{{Known By Player #=[[1d6]]}}
 
 ***************************************************************************************
 Room
