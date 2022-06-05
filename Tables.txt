@@ -1,4 +1,22 @@
 ***************************************************************************************
+Critical-Fail
+***************************************************************************************
+
+/w gm &{template:default}{{name=Fumble}}{{Melee=[[1t[Awkward-Melee-(Lv.1-4)]]]}}{{Ranged=[[1t[Awkward-Ranged-(Lv.1-4)]]]}}{{Natural=[[1t[Awkward-Natural-(Lv.1-4)]]]}}{{Magic=[[1t[Awkward-Magic-(Lv.1-4)]]]}}
+
+***************************************************************************************
+Critical-Hit-Player
+***************************************************************************************
+
+/w gm &{template:default}{{Bludgeoning=[[1t[PC-Setback-Bludgeoning-(Lv.1-4)]]]}}{{Piercing=[[1t[PC-Setback-Piercing-(Lv.1-4)]]]}}{{name=Player Critical}}{{Slashing=[[1t[PC-Setback-Slashing-(Lv.1-4)]]]}}{{Magic=[[1t[PC-Setback-Magic-(Lv.1-4)]]]}}
+
+***************************************************************************************
+Critical-Hit-Monster
+***************************************************************************************
+
+/w gm &{template:default}{{Bludgeoning=[[1t[GM-Setback-Bludgeoning-(Lv.1-4)]]]}}{{Piercing=[[1t[GM-Setback-Piercing-(Lv.1-4)]]]}}{{name=Monster Critical}}{{Slashing=[[1t[GM-Setback-Slashing-(Lv.1-4)]]]}}{{Magic=[[1t[GM-Setback-Magic-(Lv.1-4)]]]}}
+
+***************************************************************************************
 NPC
 ***************************************************************************************
 
