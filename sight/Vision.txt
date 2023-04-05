@@ -1,0 +1,4 @@
+#Blinded
+!token-mod --set has_bright_light_vision|on
+!token-mod --set has_limit_field_of_vision|off
+!token-mod --set statusmarkers|-bleeding-eye
