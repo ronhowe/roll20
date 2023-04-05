@@ -1,0 +1,2 @@
+!token-mod --set showname|off
+!token-mod --set showplayers_name|off
