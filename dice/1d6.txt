@@ -1,0 +1,1 @@
+&{template:simple} {{normal=1}} {{rname=(1d6)}} {{r1=[[1d6]]}}
