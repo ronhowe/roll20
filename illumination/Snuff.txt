@@ -1,0 +1,4 @@
+!token-mod --set bright_light_distance|0
+!token-mod --set emits_bright_light|off
+!token-mod --set emits_low_light|off
+!token-mod --set low_light_distance|0
