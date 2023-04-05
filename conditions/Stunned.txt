@@ -1,0 +1,2 @@
+!token-mod --set statusmarkers|!aura
+#Incapacitated
