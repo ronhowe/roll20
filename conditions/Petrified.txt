@@ -1,0 +1,3 @@
+!token-mod --set statusmarkers|!white-tower
+#Blinded
+#Incapacitated
