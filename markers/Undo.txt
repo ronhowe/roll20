@@ -10,6 +10,7 @@
 !token-mod --set statusmarkers|-brown
 !token-mod --set statusmarkers|-chained-heart
 !token-mod --set statusmarkers|-dead
+!token-mod --set statusmarkers|-death-zone
 !token-mod --set statusmarkers|-drink-me
 !token-mod --set statusmarkers|-fishing-net
 !token-mod --set statusmarkers|-fist
