@@ -1,2 +1,2 @@
 #Undo
-!token-mod --set tint_color|#FF0000
+!token-mod --set statusmarkers|dead
