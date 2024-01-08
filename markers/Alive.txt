@@ -1,2 +1,0 @@
-#Undo
-!token-mod --set tint_color|transparent

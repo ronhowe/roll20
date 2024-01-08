@@ -1,4 +1,1 @@
 !token-mod --set statusmarkers|!interdiction
-#Blinded
-#Incapacitated
-#Prone

@@ -1,1 +1,0 @@
-/w gm &{template:simple} {{normal=1}} {{rname=(1d20)}} {{r1=[[1d20]]}}

@@ -1,2 +1,1 @@
-#Undo
-!token-mod --set statusmarkers|dead
+!token-mod --set statusmarkers|!dead
