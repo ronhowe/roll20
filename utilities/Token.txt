@@ -1,23 +1,27 @@
-#Undo
 #Names
+#Undo
 #Vision
-!token-mod --set showplayers_name|off
-!token-mod --set playersedit_name|off
-!token-mod --set showplayers_bar1|off
-!token-mod --set playersedit_bar1|off
-!token-mod --set showplayers_bar2|off
-!token-mod --set playersedit_bar2|off
-!token-mod --set showplayers_bar3|off
-!token-mod --set playersedit_bar3|off
-!token-mod --set bar_location|overlap_bottom
-!token-mod --set compact_bar|off
-!token-mod --set showplayers_aura1|off
-!token-mod --set playersedit_aura1|off
 !token-mod --set aura1_square|on
-!token-mod --set showplayers_aura2|off
-!token-mod --set playersedit_aura2|off
 !token-mod --set aura2_square|on
-!token-mod --set bar2_value|
+!token-mod --set bar_location|overlap_bottom
+!token-mod --set bar1_max|
+!token-mod --set bar1_value|
 !token-mod --set bar2_max|
-!token-mod --set bar3_value|
+!token-mod --set bar2_value|
 !token-mod --set bar3_max|
+!token-mod --set bar3_value|
+!token-mod --set compact_bar|off
+!token-mod --set playersedit_aura1|off
+!token-mod --set playersedit_aura2|off
+!token-mod --set playersedit_bar1|off
+!token-mod --set playersedit_bar1|off
+!token-mod --set playersedit_bar2|off
+!token-mod --set playersedit_bar3|off
+!token-mod --set playersedit_name|off
+!token-mod --set showplayers_aura1|off
+!token-mod --set showplayers_aura2|off
+!token-mod --set showplayers_bar1|off
+!token-mod --set showplayers_bar1|off
+!token-mod --set showplayers_bar2|off
+!token-mod --set showplayers_bar3|off
+!token-mod --set showplayers_name|off
