@@ -31,7 +31,7 @@
 !token-mod --set showplayers_bar1|off
 !token-mod --set showplayers_bar2|off
 !token-mod --set showplayers_bar3|off
-!token-mod --set showplayers_name|off
+!token-mod --set showplayers_name|on
 !token-mod --set statusmarkers|-angel-outfit
 !token-mod --set statusmarkers|-archery-target
 !token-mod --set statusmarkers|-aura
