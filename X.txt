@@ -65,3 +65,4 @@
 !token-mod --set statusmarkers|-white-tower
 !token-mod --set statusmarkers|-yellow
 !token-mod --set tint_color|transparent
+!token-mod --set tooltip| --off show_tooltip
