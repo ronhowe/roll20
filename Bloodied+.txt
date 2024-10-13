@@ -1,2 +1,0 @@
-!token-mod --set statusmarkers|+half-heart
-!token-mod --set tint_color|#FF0000
