@@ -1,0 +1,3 @@
+/w gm &{template:default} {{name=Setback}} {{Attack Roll=[[1d20]]}} {{Attack Bonus=[[2+1d3]]}}{{Save DC=[[9+1d2]]}}{{Damage=[[2d10]]}}
+/w gm &{template:default} {{name=Dangerous}} {{Attack Roll=[[1d20]]}} {{Attack Bonus=[[5+1d3]]}}{{Save DC=[[11+1d4]]}}{{Damage=[[4d10]]}}
+/w gm &{template:default} {{name=Deadly}} {{Attack Roll=[[1d20]]}} {{Attack Bonus=[[8+1d4]]}}{{Save DC=[[15+1d5]]}}{{Damage=[[10d10]]}}

@@ -1,0 +1,8 @@
+!token-mod --set aura1_color|transparent
+!token-mod --set aura1_radius|
+!token-mod --set aura1_square|off
+!token-mod --set has_bright_light_vision|on
+!token-mod --set has_limit_field_of_vision|off
+!token-mod --set has_night_vision|off
+!token-mod --set showplayers_aura1|off
+!token-mod --set statusmarkers|-bleeding-eye

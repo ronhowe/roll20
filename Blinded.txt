@@ -1,0 +1,2 @@
+!token-mod --set has_limit_field_of_vision|on
+!token-mod --set statusmarkers|bleeding-eye

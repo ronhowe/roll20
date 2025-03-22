@@ -1,0 +1,7 @@
+!token-mod --set aura1_color|
+!token-mod --set aura1_radius|
+!token-mod --set bright_light_distance|0
+!token-mod --set emits_bright_light|off
+!token-mod --set emits_low_light|off
+!token-mod --set low_light_distance|0
+!token-mod --set showplayers_aura1|off

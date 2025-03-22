@@ -1,0 +1,4 @@
+!token-mod --set statusmarkers|+dead
+!token-mod --set statusmarkers|-half-heart
+!token-mod --set tint_color|#FF0000
+!token-mod --set layer|map

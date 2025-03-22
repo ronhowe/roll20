@@ -1,0 +1,2 @@
+!group-init --clear
+!tm reset
